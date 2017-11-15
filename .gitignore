@@ -8,6 +8,9 @@
 /tmp
 /docs
 
+#Serverless
+/.serverless
+
 # reporters
 **/*-reports.xml
 **/*-checkstyle.xml
